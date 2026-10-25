@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "종합체육관": {
+      "style": "tan",
+      "wall": "#e2d6c8",
+      "glass": "#2a3236",
+      "frame": "#8a7e6e"
+    },
+    "중앙도서관": {
+      "style": "ribbon",
+      "wall": "#8a8f8c",
+      "glass": "#3b4242",
+      "frame": "#5a6363"
+    },
+    "농업생명과학대학": {
+      "style": "brick",
+      "wall": "#c98055",
+      "glass": "#3d5a66",
+      "frame": "#e8e6e0"
+    },
+    "종합교육연구동": {
+      "style": "glass",
+      "wall": "#c4c2bc",
+      "glass": "#5f7d84",
+      "frame": "#a9b0b2"
+    },
+    "공과대학": {
+      "style": "ribbon",
+      "wall": "#c8703f",
+      "glass": "#4b5a60",
+      "frame": "#eceae6"
+    },
+    "제1공학관": {
+      "style": "glass",
+      "wall": "#d6dadb",
+      "glass": "#456a80",
+      "frame": "#5d6870"
+    },
+    "관악 73동[문화관]": {
+      "style": "tan",
+      "wall": "#e6d8c2",
+      "glass": "#3f4849",
+      "frame": "#6f7676"
+    },
+    "서울대학교 박물관": {
+      "style": "tan",
+      "wall": "#d9cdb9",
+      "glass": "#3a4244",
+      "frame": "#6d6a66"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
